@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Bot",
+  "description": "A lightweight chat application powered by Gemini, supporting multi-turn conversations, image analysis, and CSV data exploration.",
+  "requestFramePermissions": []
+}
